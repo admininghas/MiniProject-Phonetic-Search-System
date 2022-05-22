@@ -9,4 +9,4 @@ https://tinyurl.com/final-project-full
   
     
 **Kode yang saya buat mungkin kurang efisien dan terkesan acak-acakan, namun proses yang berjalan serta output yang dihasilkan sudah sesuai dengan yang diharapkan.**  
-**Fokus utama dari project ini adalah menguji ke-efektifitasan dari algoritma yang digunakan.**
+**Fokus utama dari project ini adalah menguji keefektifan dari algoritma yang digunakan.**
